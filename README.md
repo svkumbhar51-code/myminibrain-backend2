@@ -1,1 +1,1 @@
-# myminibrain-backend2
+# ai-trading-system
